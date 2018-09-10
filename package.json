@@ -1,0 +1,19 @@
+{
+  "name": "test_folder_heroku",
+  "version": "1.0.0",
+  "description": "Heroku test deployment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElenaSquirrel/TestHeroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElenaSquirrel/TestHeroku/issues"
+  },
+  "homepage": "https://github.com/ElenaSquirrel/TestHeroku#readme"
+}
